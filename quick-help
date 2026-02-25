@@ -1,0 +1,25 @@
+🚀 TMUX CHEAT SHEET (Custom Config)
+  -----------------------------------------
+  PREFIX: Control + Space (C-Space)
+
+  🪟 WINDOWS (Tabs at bottom)
+  New Window:     Prefix + c
+  Rename Window:  Prefix + ,
+  Next / Prev:    Prefix + n / p
+  Switch by #:    Prefix + 0-9
+  Last Window:    Prefix + Tab
+
+  🪓 PANES (Splits)
+  Vertical:       Prefix + |
+  Horizontal:     Prefix + -
+  Switch:         Prefix + Arrows
+  Resize:         Prefix + Arrows (Hold/Tap)
+  Zoom (Full):    Prefix + z
+  Close Pane:     Prefix + x
+
+  🛠️ ADVANCED & NAVIGATION
+  Join Pane:      Prefix + j
+  Send Pane:      Prefix + s
+  Scroll/Copy:    Prefix + [  (q to exit)
+  Reload Config:  Prefix + r
+  -----------------------------------------
